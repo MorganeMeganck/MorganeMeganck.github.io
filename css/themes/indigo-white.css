@@ -3,8 +3,7 @@
 main {
 	background-image: url("http://www.psdgraphics.com/file/2016/simple-geometric-design.png") ;
 	color: #FAFAFA;
-   background-repeat: no-repeat;
-    background-size: auto;
+   background-size: 50%;
 }
 
 .icons-social a {
